@@ -1,0 +1,6 @@
+1;Daniel;0914192182;Msc;0992269847;1
+2;Yady;09343444;Licenciada;0943434;2
+3;Alan;093454566;sin titulo;4345678;2
+4;Marcos;99999999;mecanico;5545556;1
+5;jhjjh;1230;sdfsdf;120;1
+6;dddddd;qwwqqw;qwewe;12312;2
